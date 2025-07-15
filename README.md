@@ -8,11 +8,11 @@ A curated collection of technical interview questions, real-world system designs
 
 | Folder | Description |
 |--------|-------------|
-| `mysql-database-questions/` | 50+ MySQL & database design Q&A for interviews |
-| `php-laravel-basic/`        | PHP & Laravel mid-level interview questions |
-| `system-designs/`           | Real-world architecture diagrams (ecommerce, chat, payments) |
-| `live-coding-challenges/`   | Commonly asked coding problems with clean PHP solutions |
-| `laravel-advanced-questions/` | Deep-dive questions on advanced Laravel features |
+| `mysql-database/` | 50+ MySQL & database design Q&A for interviews |
+| `php-laravel-basic/`     | PHP & Laravel mid-level interview questions |
+| `system-design/`         | Real-world architecture diagrams (ecommerce, chat, payments) |
+| `laravel-advanced/` | Deep-dive questions on advanced Laravel features |
+| `live-coding-challenges/` | Commonly asked coding problems with clean PHP solutions |
 
 ---
 
